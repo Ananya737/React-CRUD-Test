@@ -5,6 +5,7 @@ import About from "./Pages/About";
 import Faculty from "./Pages/Faculty";
 import OurCourses from "./Pages/OurCourses";
 import Contact from "./Pages/Contact";
+import ContextApi from "./Pages/ContextApi";
 
 
 const App=()=>{
@@ -19,6 +20,7 @@ const App=()=>{
   <Route path="/faculty"element={<Faculty/>}/>
   <Route path="/ourCourses"element={<OurCourses/>}/>
   <Route path="/contact"element={<Contact/>}/>
+  <Route path="/contextApi"element={<ContextApi/>}/>
 
   </Route>
 </Routes>

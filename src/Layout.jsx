@@ -4,12 +4,7 @@ import Topnav from "./Pages/Topnav";
 const Layout=()=>{
     return(
       <>
-      {/* <Link to="/">Home</Link>
-      <Link to="/home">Home</Link>
-      <Link to="/about">About</Link>
-      <Link to="/faculty">Faculty</Link>
-      <Link to="/ourCourses">Our Courses</Link>
-      <Link to="/contact">Contact</Link> */}
+      
 
       <Topnav/>
   

@@ -17,6 +17,7 @@ const Topnav=()=>{
             <Nav.Link as={Link} to="/faculty">Faculty</Nav.Link>
             <Nav.Link as={Link} to="/ourCourses">Our Courses</Nav.Link>
             <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+            <Nav.Link as={Link} to="/contextApi">Context Api</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
